@@ -1,0 +1,8 @@
+/*phone 640px lt max-width:639px*/
+@media screen and (max-width: 639px) {
+    h2{color: green;font-size: 1.5em;}
+    section#container{width: 400px;}
+    #left{float: left;width: 100%;line-height: 100px;}
+    section#main{float: left;width: 100%;line-height: 200px;margin-left: 0px;}
+    #right{float: left;width: 100%;line-height: 100px;margin-left: 0px;}
+}

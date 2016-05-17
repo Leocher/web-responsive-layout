@@ -1,0 +1,44 @@
+body,h2{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+section#main,header,aside,footer{
+    background: #333;
+    margin: 5px 0;
+}
+h2{
+    text-align: center;
+    font-size: 3em;
+}
+section#container{
+    margin: 0px auto;
+    width:960px;
+}
+header{
+    float: left;
+    width: 100%;
+    line-height: 100px;
+}
+#left{
+    float: left;
+    width: 200px;
+    line-height: 400px;
+}
+section#main{
+    float: left;
+    width: 540px;
+    line-height: 400px;
+    margin-left: 10px;
+}
+#right{
+    float: left;
+    width: 200px;
+    line-height: 400px;
+    margin-left: 10px;
+}
+footer{
+    float: left;
+    width: 100%;
+    line-height: 80px;
+}

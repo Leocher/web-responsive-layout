@@ -1,0 +1,8 @@
+/*pad 640-1000px*/
+@media screen and (min-width: 640px) and (max-width: 1000px) {
+    h2{color: #F0F;font-size: 2.5em;}
+    section#container{width: 600px;}
+    #left{width: 160px;}
+    section#main{width: 430px;}
+    #right{display: none;}
+}

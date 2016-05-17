@@ -1,0 +1,7 @@
+/*1000px以上屏幕如何显示*/
+@media screen and (min-width: 1000px) {
+    h2{color: yellow;font-size: 4em;}
+    section#container{width: 1160px;}
+    section#main{width: 640px;}
+    #right{width: 300px;line-height: 400px;}
+}
