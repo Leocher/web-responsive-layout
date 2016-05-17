@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="IdProvider" IDEtalkID="08BFBD55CCED74A6CAA691ED4B91EAD6" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -21,4 +18,3 @@
     </states>
   </component>
 </project>
-
